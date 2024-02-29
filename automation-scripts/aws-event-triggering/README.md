@@ -1,0 +1,3 @@
+#  This project automates the setup process for an S3 event-triggered Lambda function, including IAM role creation, Lambda function creation, S3 bucket configuration, SNS topic creation, and message publishing to the SNS topic. This automation is useful for streamlining the deployment process and ensuring consistency across environments.
+
+## NOTE: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE and YOUR EMAIL ADDRESS IN THE SHELL SCRIPT!!!
